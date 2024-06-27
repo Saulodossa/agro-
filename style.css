@@ -4,10 +4,13 @@
     }
 
 }
-
-.imagem2{
-    width:50% ;
-}
+ @media screen and (min-width: 438px ){
+    .imagem2{
+        width:50% ;
+    }
+     }
+    
+ 
 
 
 

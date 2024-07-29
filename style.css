@@ -19,5 +19,8 @@
     .imagem2{
         width:60% ;
     }
+    .bombaA{
+        display: flex;
+    }
 
 }

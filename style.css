@@ -1,25 +1,9 @@
-@media screen and (min-width: 1024px){
-    .imagem2{
-        width:100% ;
-    }
-
+.imagem2{
+    width:50% ;
 }
- @media screen and (min-width: 438px ){
-    .imagem2{
-        width:50% ;
-    }
-     }
-    
- 
 
 
-
-
-
-
-
-
- .titulo{
+.titulo{
     background-color: darkgray;
  }
 
@@ -27,3 +11,31 @@
 .rodapé{
     background-color: darkgray;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 1024px){
+    .imagem2f{
+        width:100% ;
+    }
+
+}
+
+ 
+
+
+
+
+
+
